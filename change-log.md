@@ -1,8 +1,6 @@
 # Change Log
 
-GitHub
-
-GitBook
+GitHub+GitBook=:\)
 
 ## Change Log
 
