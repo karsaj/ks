@@ -5,5 +5,4 @@
 * [FAQ](faq.md)
 * [Change Log](change-log.md)
 * [KS \(Word import\)](cv.md)
-* [SC](sc.md)
 
