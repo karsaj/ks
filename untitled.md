@@ -101,14 +101,9 @@ Documentation manager and author of white papers, use cases, functional specific
 
 ## Education
 
-* **Applied Information Technologist \(AIT\) Diploma,** Information Technology Institute, Toronto, ON. Nine-month postgraduate, team-based program with courses and projects involving business analysis, requirements gathering, research and solutions development using Microsoft network and application development, Oracle, and PowerBuilder technologies.
-    * **Bachelor of Commerce \(Honours Business Administration\),** University of Windsor, ON.
-
-Specialized in Finance and Logistics Management.
-
- * **Bachelor of Arts \(Honours\),** York University, Glendon College, Toronto, ON.
-
-Specialized in Economics. Majored in English Literature and Philosophy. Functional in French.
+    * **Applied Information Technologist \(AIT\) Diploma,** Information Technology Institute, Toronto, ON. Nine-month postgraduate, team-based program with courses and projects involving business analysis, requirements gathering, research and solutions development using Microsoft network and application development, Oracle, and PowerBuilder technologies.
+    * **Bachelor of Commerce \(Honours Business Administration\),** University of Windsor, ON. Specialized in Finance and Logistics Management.
+    * **Bachelor of Arts \(Honours\),** York University, Glendon College, Toronto, ON.Specialized in Economics. Majored in English Literature and Philosophy. Functional in French.
 
 ## Azure Cloud-based Portfolio
 
