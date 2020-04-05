@@ -93,7 +93,6 @@ Documentation manager and author of white papers, use cases, functional specific
 
 ## Professional Development
 
-    * **Certificate:** Business Analysis, University of Toronto, ON, 2020 \(in progress\).
     * **Instructional Design,** Schulich School of Business, Toronto, ON, 2015.
     * **Articulate Storyline Expert Training**: Yukon Learning, Toronto, ON, 2012.
     * **Certificate**: Microsoft SQL Server Administration and Development, Humber College, Toronto, ON, 2010.
